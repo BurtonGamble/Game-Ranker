@@ -1,0 +1,10 @@
+C:\Users\voydangel\OneDrive\Projects\GameRanker\GameRanker\obj\Debug\GameRanker.csprojAssemblyReference.cache
+C:\Users\voydangel\OneDrive\Projects\GameRanker\GameRanker\obj\Debug\GameRanker.Properties.Resources.resources
+C:\Users\voydangel\OneDrive\Projects\GameRanker\GameRanker\obj\Debug\GameRanker.csproj.GenerateResource.cache
+C:\Users\voydangel\OneDrive\Projects\GameRanker\GameRanker\obj\Debug\GameRanker.csproj.CoreCompileInputs.cache
+C:\Users\voydangel\OneDrive\Projects\GameRanker\GameRanker\bin\Debug\GameRanker.exe.config
+C:\Users\voydangel\OneDrive\Projects\GameRanker\GameRanker\bin\Debug\GameRanker.exe
+C:\Users\voydangel\OneDrive\Projects\GameRanker\GameRanker\bin\Debug\GameRanker.pdb
+C:\Users\voydangel\OneDrive\Projects\GameRanker\GameRanker\obj\Debug\GameRanker.exe
+C:\Users\voydangel\OneDrive\Projects\GameRanker\GameRanker\obj\Debug\GameRanker.pdb
+C:\Users\voydangel\OneDrive\Projects\GameRanker\GameRanker\obj\Debug\GameRanker.Form1.resources
